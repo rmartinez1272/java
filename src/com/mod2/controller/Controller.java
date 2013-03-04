@@ -16,7 +16,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author paul
+ * @author mmixco
  */
 public class Controller extends DefaultTableModel {
     private int numreg=0; 
