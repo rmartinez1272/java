@@ -79,6 +79,7 @@ public class Productos implements Serializable, IParam{
      */
     public String getModelo() {
         return modelo;
+        
     }
 
     /**
