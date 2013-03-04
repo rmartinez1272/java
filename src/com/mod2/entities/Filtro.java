@@ -1,6 +1,5 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+
  */
 package com.mod2.entities;
 
@@ -8,7 +7,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author paul
+@mmixco
  */
 public class Filtro implements Serializable{
     private boolean bfiltro1;
