@@ -23,7 +23,7 @@ public class Cliente implements Serializable, IParam{
 
     public Cliente() {
     }
-/* este es un ejemplo*/
+/* este es un ejemplo otro cambio*/
     public Cliente(String codigo, String nombre, String apellido1, String apellido2, String direccion, String telefono, String celular, String email) {
         this.codigo = codigo;
         this.nombre = nombre;
