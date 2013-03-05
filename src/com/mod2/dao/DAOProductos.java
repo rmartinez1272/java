@@ -30,7 +30,7 @@ public class DAOProductos implements IDao {
     public void conectarse(){
         try {
             Class.forName("com.mysql.jdbc.Driver").newInstance();
-            cn = DriverManager.getConnection("jdbc:mysql://localhost:3306/favoritos?user=root&password=mario13");
+            cn = DriverManager.getConnection("jdbc:mysql://localhost:3306/favoritos?user=root&password=mario133");
         } catch (Exception e) {
             
         }
