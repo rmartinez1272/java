@@ -381,6 +381,7 @@ private Controller controller;
 
     private void jbtnCerrarMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jbtnCerrarMouseClicked
         // TODO add your handling code here:
+         System.exit(0);
     }//GEN-LAST:event_jbtnCerrarMouseClicked
 
     /**
