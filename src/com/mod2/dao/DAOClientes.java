@@ -30,7 +30,7 @@ public class DAOClientes implements IDao {
     public void conectarse(){
         try {
             Class.forName("com.mysql.jdbc.Driver").newInstance();
-            cn = DriverManager.getConnection("jdbc:mysql://localhost:3306/favoritos?user=root&password=mario133");
+            cn = DriverManager.getConnection("jdbc:mysql://localhost:3306/favoritos?user=caricia&password=caricia");
         } catch (Exception e) {
             
         }
